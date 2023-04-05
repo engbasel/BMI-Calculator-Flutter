@@ -13,3 +13,5 @@ To run the app, simply download or clone the repository and open it in Flutter. 
 
 ![resalt](https://user-images.githubusercontent.com/88496239/230197183-3ac5c600-b3e7-470e-bc37-e8fd5f180470.png)
 
+<hr>
+
