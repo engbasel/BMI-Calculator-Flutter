@@ -7,7 +7,8 @@ To run the app, simply download or clone the repository and open it in Flutter. 
 <hr>
 <h3>you can take a fast viwe by this simple phots
 </h3>
-![Screenshot_٢٠٢٣٠٤٠٥_٢١٥٦٢٨](https://user-images.githubusercontent.com/88496239/230196622-20bdd6f0-599f-48a6-bed3-691a491ff4bd.png)
-![Screenshot_٢٠٢٣٠٤٠٥_٢١٥٦٣٦](https://user-images.githubusercontent.com/88496239/230196660-ebdf2279-d890-4457-a9d0-56229bbaef98.png)
 
-<hr>
+
+
+![resalt](https://user-images.githubusercontent.com/88496239/230197183-3ac5c600-b3e7-470e-bc37-e8fd5f180470.png)
+
